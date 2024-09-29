@@ -6,6 +6,13 @@ function Projects() {
       <h1 className="text-4xl font-bold text-gray-800 mb-6">My Projects</h1>
       <ul className="space-y-4">
         <li className="bg-white shadow-md rounded-lg p-4 transition-transform transform hover:scale-105">
+          <h2 className="text-xl font-semibold text-blue-600">E-Commerce-Website</h2>
+          <p className="text-gray-700">Shop sustainably with our eco-friendly products, designed to minimize your environmental impact without compromising on quality.</p>
+          <a href=" https://shiny-marzipan-170c14.netlify.app" target="_blank" rel="noopener noreferrer" className="btn btn-primary mt-2">
+            View Project
+          </a>
+        </li>
+        <li className="bg-white shadow-md rounded-lg p-4 transition-transform transform hover:scale-105">
           <h2 className="text-xl font-semibold text-blue-600">Exciting Music Player</h2>
           <p className="text-gray-700">A fully interactive music player with a visually engaging interface, allowing users to play, pause, and skip through tracks.</p>
           <a href=" https://benevolent-pixie-e4a0bc.netlify.app" target="_blank" rel="noopener noreferrer" className="btn btn-primary mt-2">
